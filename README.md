@@ -36,7 +36,8 @@ AWS
 Azure
 
 
-Google Cloud (GCP)
-
-
 DevOps
+
+
+Nutanix
+
