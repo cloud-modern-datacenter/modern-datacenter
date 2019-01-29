@@ -1,3 +1,19 @@
 # modern-datacenter
 
-Modernize Datacenter Training, Certification and Resources
+List of Modern Datacenter, certifications and other useful resources.
+
+# TOC
+
+
+# Training
+
+Microsoft Azure
+
+
+Amazon Webservices
+
+
+
+
+
+
