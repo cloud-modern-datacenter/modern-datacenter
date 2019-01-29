@@ -36,8 +36,11 @@ AWS
 Azure
 
 
+Nutanix
+
+
 DevOps
 
 
-Nutanix
+
 
