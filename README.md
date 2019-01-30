@@ -6,6 +6,7 @@ Modernize Datacenter Training, Certification and Resources
 * [Cloud & Modern Datacenter](#Cloud&ModernDatacenter)
 * [Training](#training)
 * [Certifications](#certifications)
+* [Conferences](#conferences)
 
 ## Cloud & Modern Datacenter
 
@@ -19,9 +20,20 @@ Modernize Datacenter Training, Certification and Resources
 
 AWS
 
+* [AWS Certified Solutions Architect Associate Tips](https://github.com/pietheinstrengholt/aws-certified-solutions-architect-associate-exam-tips)
+* [AWS Certified Solutions Architect Associate Online Course](https://www.udemy.com/aws-certified-solutions-architect-associate/)
+
 Azure
 
+* [Azure introduction](https://docs.microsoft.com/nl-nl/learn/azure/)
+
+
 Nutanix
+
+* [Nutanix online training](https://www.nutanix.com/support-services/training-certification/online-training/)
+
+
+
 
 ### DevOps
 
@@ -42,5 +54,15 @@ Nutanix
 DevOps
 
 
+### Books
+* [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 
+
+
+### Conferences
+
+* [AWS Summit](https://aws.amazon.com/summits/benelux/)
+* [DevOps Days](https://www.devopsdays.org/events/2019-amsterdam/welcome/)
+* [DevOps Summit Amsterdam](https://www.devopssummitamsterdam.com/)
+* [Azure Events](https://azure.microsoft.com/en-us/community/events/)
 
