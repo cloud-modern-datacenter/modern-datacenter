@@ -61,6 +61,7 @@ Azure
 
 Nutanix
 
+* [Nutanix NCP / CNAP / NPX](https://www.nutanix.com/support-services/training-certification/certifications/)
 
 DevOps
 
