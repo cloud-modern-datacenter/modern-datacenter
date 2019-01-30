@@ -37,7 +37,9 @@ VMware
 
 * [VMware Cloud Fundamentals](https://mylearn.vmware.com/mgrReg/courses.cfm?ui=www_edu&a=one&id_subject=78498&src=so_5a314d05e49f5&cid=70134000001SkJn)
 
+Veeam
 
+* [Veeam Resource Library](https://www.veeam.com/resource-library.html?search=&sortByRelevance=1&language[]=en&tags[product][]=)
 
 ### DevOps
 
