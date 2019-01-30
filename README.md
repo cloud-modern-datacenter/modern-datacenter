@@ -6,7 +6,7 @@ Modernize Datacenter Training, Certification and Resources
 * [Cloud & Modern Datacenter](#Cloud&ModernDatacenter)
 * [Training](#training)
 * [Certifications](#certifications)
-* [Conferences](#conferences)
+* [Resources](#resources)
 
 ## Cloud & Modern Datacenter
 
