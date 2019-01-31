@@ -71,7 +71,7 @@ DevOps
 VMware
 
 * [VMware Data Center Virtualization 2019 (VCP-DCV 2019)](https://www.vmware.com/education-services/certification/vcp-dcv-2019.html)
-* [VMware Cloud Management and Automation 2019](https://www.vmware.com/education-services/certification/vcp-cma-2019.html)
+* [VMware Cloud Management and Automation 2019 (VCP-CMA 2019)](https://www.vmware.com/education-services/certification/vcp-cma-2019.html)
 
 ## Resources
 
