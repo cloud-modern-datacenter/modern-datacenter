@@ -26,6 +26,7 @@ AWS
 Azure
 
 * [Azure introduction](https://docs.microsoft.com/nl-nl/learn/azure/)
+* [Microsoft Partner Portal](https://login.microsoftonline.com/common/oauth2/authorize?client_id=4990cffe-04e8-4e8b-808a-1175604b879f&response_mode=form_post&response_type=code+id_token&scope=openid+profile&state=OpenIdConnect.AuthenticationProperties%3d95MEcf-haSFKgq5_Jw2AbLL1oe0W0SYb0QnKIj5RSnfn3jWlgfr2qaVLF2jGXDb7eFWlCQu4GNnEiFQ2UN74fCZAniXE2Byb7MlhEI4oZNEOzOvyZROtpF3zlP92rhrn09TMjlD-Tb8ZAgbDSPOSM7rcwGKcPHIYiYdyFFBY-td437YlzWkEd6DZdErmH6aQ47iXh1mQYD85_8KNOkw6z2cJm9A&nonce=636906527314092162.ZjcxMWU3OTYtODU3Mi00YWVjLTk4ZjItYTRmYzg5YWJkMmJjOWE0NjJhNGUtZTljZi00MmFlLTgyYzItNDczNzBiNDU5YTZh&redirect_uri=https%3a%2f%2fpartner.microsoft.com%2faad%2fauthPostGateway&resource=797f4846-ba00-4fd7-ba43-dac1f8f63013&mkt=en-US&sso_nonce=AQABAAAAAADCoMpjJXrxTq9VG9te-7FXAbIBDTXWaJcxfKNB7P-O2hsEhFWsMU1In-buhGjkB1m4ss_pGA6F21fVzoOHOeC1YiwLZ17Q4gnDokocc-43HCAA&client-request-id=d9678c24-5535-439e-bab4-9882e209ca9e&mscrid=d9678c24-5535-439e-bab4-9882e209ca9e)
 
 
 Nutanix
@@ -40,6 +41,7 @@ VMware
 Veeam
 
 * [Veeam Resource Library](https://www.veeam.com/resource-library.html?search=&sortByRelevance=1&language[]=en&tags[product][]=)
+
 
 ### DevOps
 
