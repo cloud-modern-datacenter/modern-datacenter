@@ -77,6 +77,9 @@ VMware
 
 ## Resources
 
+### Online Learning
+Katacoda](https://www.katacoda.com/)
+
 ### Books
 * [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 
